@@ -1,11 +1,15 @@
 # open-messenger
 
 ## Task
-To build an server which exposes a web socket connection. Clients from cli would connect to this server and would chat with other people who are online
+To build an server which exposes a web socket connection. Clients from cli would connect to this server and would chat with other people who are online.
+Websockets Reference: https://pypi.org/project/websockets/
+
+## Server Example
+https://github.com/aaugustin/websockets/blob/master/example/server.py
 
 ## Example output
 ```
-telnet 192.168.2.2 80
+Connect https://github.com/aaugustin/websockets/blob/master/example/client.py
 
 Enter your username: iron-man
 
